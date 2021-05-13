@@ -1,0 +1,16 @@
+.boxPrincipal {
+	width: 900px;
+	margin: auto;
+	margin-top: 20%;
+}
+.calculos {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.input {
+	width: 100%;
+	padding: 20px 20px 20px 0px;
+}
